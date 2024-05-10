@@ -1,3 +1,6 @@
+# Ft_IRC 
+    L’objectif de ce projet est de reproduire le fonctionnement d’un serveur IRC (Internet Relay Chat), pour que plusieurs client IRC puissent se connecter; réaliser en groupe. 
+
 # Usefull links for documentation:
 
 
