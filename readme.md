@@ -1,11 +1,51 @@
-# Ft_IRC 
-  L’objectif de ce projet est de reproduire le fonctionnement d’un serveur IRC (Internet Relay Chat), pour que plusieurs client IRC puissent se connecter; réaliser en groupe. 
-    Ce projet m'a permis de coder pour la première fois un grand projet en POO, cela était trés intéressant de se pencher sur la question de quel object créer ou quels fonctions ou attribut. Le parsing était stimulant 😊.
+# Ft_Irc 📚
+Created an Irc server.
+
+## Description 🔍
+
+The objective of this project is to reproduce the operation of an IRC (Internet Relay Chat) server, so that several IRC clients can connect; carried out in a group.
+     This project allowed me to code for the first time a large project in OOP, it was very interesting to look at the question of which object to create or which functions or attributes. The analysis was stimulating 😊.
+
+## Getting started 🏁
+
+### Dependencies 🛠️
+basic bash
+Terminal
+Irssi client 
+Netcat client (nc)
 
 
+### Installation 📦
+* Commande make for the Makefile 
 
-### Se connecter à irssi
+### Running the program 💻
+* How to run the program
+* First clone it
+  ```
+  git clone https://github.com/balkisous/Ft_Irc.git ```
+* Change directory and make to compile
+  ```
+  ~ cd Ft_Irc && make
+  ~ ./ircserv [port] [password] 
+  ```
+Test with irssi client or nc client
+With irssi : 
+	 ~ irssi -c localhost -p [port]
+*With nc :
+	~ nc localhost [port]
 
-````
- irssi -c localhost -p 1050
- ````
+	
+
+## Help 🛟
+Maybe there some problem to run the minilibx librairie, check it on the github 
+    L-> https://github.com/42Paris/minilibx-linux 
+    
+## Authors 👩‍💻
+Names of contributors :
+@balkisous
+Some help of @ttranche for the theoretical explanation of the algorithm
+## Version history ✅
+* Made at 42Paris 
+
+## Subject 📝
+You will find the subject in the repo
