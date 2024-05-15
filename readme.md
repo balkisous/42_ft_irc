@@ -49,9 +49,9 @@ Read the IRC documentation to understand how to connect and how it's works.
     
 ## Authors 👩‍💻
 Names of contributors :
-@marieines7
-@dediane
-@balkisous
+* @marieines7
+* @dediane
+* @balkisous
 ## Version history ✅
 * Made at 42Paris 
 
