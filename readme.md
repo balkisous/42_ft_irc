@@ -1,4 +1,4 @@
-# Ft_Irc 📚
+# Ft_Irc 💬
 Created an Irc server.
 
 ## Description 🔍
@@ -9,14 +9,14 @@ The objective of this project is to reproduce the operation of an IRC (Internet 
 ## Getting started 🏁
 
 ### Dependencies 🛠️
-basic bash
-Terminal
-Irssi client 
-Netcat client (nc)
-
+* Basic bash
+* Terminal
+* Irssi client 
+* Netcat client (nc)
+* Work on Linux
 
 ### Installation 📦
-* Commande make for the Makefile 
+* Command make for the Makefile
 
 ### Running the program 💻
 * How to run the program
@@ -26,26 +26,34 @@ Netcat client (nc)
 * Change directory and make to compile
   ```
   ~ cd Ft_Irc && make
-  ~ ./ircserv [port] [password] 
+  ~ ./ircserv [port] [password]
+  Ex : ./ircserv 1555 123pass 
   ```
-Test with irssi client or nc client
-With irssi : 
-	 ~ irssi -c localhost -p [port]
-*With nc :
+* Open a new terminal and Test with irssi client or nc client
+* With irssi : 
+	``` ~ irssi -c localhost -p [port] ```
+* With nc :
+	```
 	~ nc localhost [port]
-
+ 	PASS serverpass
+	NICK marie
+	USER marie 0 * :marie
+	JOIN #chan
+	PART #chan
+	```
 	
 
 ## Help 🛟
-Maybe there some problem to run the minilibx librairie, check it on the github 
-    L-> https://github.com/42Paris/minilibx-linux 
+Read the IRC documentation to understand how to connect and how it's works.
+	L-> https://modern.ircdocs.horse/ (Go in client Messages)
     
 ## Authors 👩‍💻
 Names of contributors :
+@marieines7
+@dediane
 @balkisous
-Some help of @ttranche for the theoretical explanation of the algorithm
 ## Version history ✅
 * Made at 42Paris 
 
 ## Subject 📝
-You will find the subject in the repo
+You will find the subject in the repository.
