@@ -4,7 +4,7 @@ Created an Irc server.
 ## Description 🔍
 
 The objective of this project is to reproduce the operation of an IRC (Internet Relay Chat) server, so that several IRC clients can connect; carried out in a group.
-     This project allowed me to code for the first time a large project in OOP, it was very interesting to look at the question of which object to create or which functions or attributes. The analysis was stimulating 😊.
+     This project allowed me to code for the first time a large project in OOP, it was very interesting to wonder which object we can create or which functions or attributes it can have. The analysis was stimulating 😊.
 
 ## Getting started 🏁
 
