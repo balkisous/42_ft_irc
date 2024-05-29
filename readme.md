@@ -43,7 +43,8 @@ The objective of this project is to reproduce the operation of an IRC (Internet 
 	```
 
  ## Excepted view
- [ft_irc.webm](https://github.com/balkisous/Ft_Irc/assets/76943138/0b935986-13f3-43fa-b3de-79ad62678fa6)
+[Ft_Irc.webm](https://github.com/balkisous/Ft_Irc/assets/76943138/f6e9d28b-e555-4ef9-b254-36d95eeeaf6c)
+
 
 ## Help 🛟
 Read the IRC documentation to understand how to connect and how it's works.
