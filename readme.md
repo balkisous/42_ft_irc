@@ -41,7 +41,9 @@ The objective of this project is to reproduce the operation of an IRC (Internet 
 	JOIN #chan
 	PART #chan
 	```
-	
+
+ ## Excepted view
+ [ft_irc.webm](https://github.com/balkisous/Ft_Irc/assets/76943138/0b935986-13f3-43fa-b3de-79ad62678fa6)
 
 ## Help 🛟
 Read the IRC documentation to understand how to connect and how it's works.
