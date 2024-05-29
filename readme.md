@@ -26,8 +26,8 @@ The objective of this project is to reproduce the operation of an IRC (Internet 
 * Change directory and make to compile
   ```
   ~ cd Ft_Irc && make
-  ~ ./ircserv [port] [password]
-  Ex : ./ircserv 1555 123pass 
+  ~ ./ircserv -c localhost -p [port] -w [password] -n [name]
+  Ex : irssi -c localhost -p 1555 -w 123pass -n balkis
   ```
 * Open a new terminal and Test with irssi client or nc client
 * With irssi : 
